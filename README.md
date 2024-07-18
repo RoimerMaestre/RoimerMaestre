@@ -1,5 +1,5 @@
 <div style="position: relative; width: 100%; height: 200px; overflow: hidden;">
-  <img src="https://www.womgp.com/blog/wp-content/uploads/2021/03/Desarrollo-Web-Dibdata-660x330.jpg" style="position: absolute; top: -50%; left: 0; width: 100%; height: auto; opacity: 0.3;">
+  <img src="https://imagenes.20minutos.es/files/image_640_360/uploads/imagenes/2023/01/18/traductor-google.jpeg" style="position: absolute; top: -50%; left: 0; width: 100%; height: auto; opacity: 0.3;">
   <div style="position: relative; z-index: 1; text-align: center; padding: 50px 0;">
 
 <h1 align="center">Hi 👋, I'm Roimer Ciloe Maestre Quijada</h1>
