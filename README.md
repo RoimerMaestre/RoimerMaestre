@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RoimerMaestre/RoimerMaestre/output/snake.svg" alt="Snake animation" />
-
-###
