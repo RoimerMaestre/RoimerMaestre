@@ -1,6 +1,5 @@
 <h2 align="left">🚀 Apasionado Desarrollador Frontend<br><br>
-Memoria actualizada
-Aquí tienes un perfil para tu GitHub basado en la información proporcionada:
+
 
 Roimer Maestre
 🌍 Ubicación: Chile
