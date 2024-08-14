@@ -1,4 +1,4 @@
-<h2 align="left">🚀 Apasionado Desarrollador Frontend<br><br>¡Hola! Soy Roimer Maestre, un desarrollador frontend apasionado por crear experiencias web excepcionales. Tengo experiencia en HTML, CSS, JavaScript y Vue.js. Me encanta transformar ideas en productos digitales funcionales y atractivos.</h2>
+<h2 align="left">🚀 Apasionado Desarrollador Frontend<br><br>¡Hola! Soy Roimer Maestre, un desarrollador frontend apasionado por crear experiencias web excepcionales. Tengo experiencia en HTML, CSS, JavaScript, Vue.js y otras tecnologias. Me encanta transformar ideas en productos digitales funcionales y atractivos.</h2>
 
 ###
 
