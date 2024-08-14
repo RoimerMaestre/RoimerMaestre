@@ -9,7 +9,7 @@
 
 ---
 
-Soy Roimer Maestre, un apasionado del desarrollo web frontend, enfocado en crear experiencias de usuario intuitivas y estéticamente agradables. Actualmente, estoy perfeccionando mis habilidades a través de un bootcamp en Desafío Latam, donde he realizado varios proyectos que reflejan mi dedicación y amor por el desarrollo web moderno.
+Soy un apasionado del desarrollo web frontend, enfocado en crear experiencias de usuario intuitivas y estéticamente agradables. Actualmente, estoy perfeccionando mis habilidades a través de un bootcamp en Desafío Latam, donde he realizado varios proyectos que reflejan mi dedicación y amor por el desarrollo web moderno.
 
 📚 **Experiencia:**  
 Mis proyectos realizados en el bootcamp me han brindado la oportunidad de aplicar mis conocimientos en situaciones prácticas, enfrentando desafíos reales del desarrollo web. Esto me ha permitido desarrollar competencias clave como la resolución de problemas, la proactividad, y una fuerte orientación al detalle.
