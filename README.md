@@ -1,32 +1,24 @@
 <h2 align="left">🚀 Apasionado Desarrollador Frontend<br><br>
 
 
-Roimer Maestre
-🌍 Ubicación: Chile
-💻 Desarrollador Web Frontend
-🎓 Formación: Estudiante autodidacta de desarrollo web, cursando un bootcamp en Desafío Latam enfocado en desarrollo web moderno.
+# Roimer Maestre
+
+🌍 **Ubicación:** Chile  
+💻 **Desarrollador Web Frontend**  
+🎓 **Formación:** Estudiante autodidacta de desarrollo web, cursando un bootcamp en Desafío Latam enfocado en desarrollo web moderno.
+
+---
 
 Soy Roimer Maestre, un apasionado del desarrollo web frontend, enfocado en crear experiencias de usuario intuitivas y estéticamente agradables. Actualmente, estoy perfeccionando mis habilidades a través de un bootcamp en Desafío Latam, donde he realizado varios proyectos que reflejan mi dedicación y amor por el desarrollo web moderno.
 
-📚 Experiencia:
+📚 **Experiencia:**  
 Mis proyectos realizados en el bootcamp me han brindado la oportunidad de aplicar mis conocimientos en situaciones prácticas, enfrentando desafíos reales del desarrollo web. Esto me ha permitido desarrollar competencias clave como la resolución de problemas, la proactividad, y una fuerte orientación al detalle.
 
-🔗 Contacto:
+🔗 **Contacto:**  
+- WhatsApp: [+56979769952](https://wa.me/56979769952)  
+- Correo electrónico: [roimer.maestre93@gmail.com](mailto:roimer.maestre93@gmail.com)  
 
-WhatsApp: +56979769952
-Correo electrónico: roimer.maestre93@gmail.com
 Estoy abierto a nuevas oportunidades y desafíos en el campo del desarrollo web. ¡No dudes en contactarme!
-
-Este perfil es una buena base para destacar tus habilidades y permitir que quienes visiten tu GitHub te conozcan mejor.
-
-
-
-
-
-
-
-
-</h2>
 
 ###
 
